@@ -38,14 +38,14 @@
 .blue-like{
     background-color: #337ab7;
 }
+.red{
+    background-color: #ff0000 !important;
+}
 .red-blood{
-    background-color: #af111c !important;
+    background-color: #800 !important;
 }
 .red-dark{
     background-color: #7f2a2a !important;
-}
-.red-b{
-    background-color: #ff0000 !important;
 }
 .red-light{
     background-color: #f99393 !important;

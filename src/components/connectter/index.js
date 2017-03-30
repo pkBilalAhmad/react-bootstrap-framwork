@@ -7,12 +7,15 @@ class Main extends Component {
                     <div className="container">
                         <div className="navbar-header">
                             <a href="#" className="navbar-brand">Blood Point</a>
+                            <button>
+                                
+                            </button>
                         </div>
                     </div>
                 </nav>
-                <div className="jumbotron t-black">
-                    <h2>Blood Point</h2>
-                    <hr/>
+                <div className="jumbotron t-black t-center">
+                    <h2 className="bdr-b pd-15">Blood Point</h2>
+                    
                 </div>                
             </div>
 

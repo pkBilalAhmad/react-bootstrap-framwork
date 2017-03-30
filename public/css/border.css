@@ -52,3 +52,9 @@
 .bdr-r{
     border-right: 1px solid gray;
 }
+.bdr-b{
+    border-bottom: 1px solid gray;
+}
+.bdr-t{
+    border-top: 1px solid gray;
+}
