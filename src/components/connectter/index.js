@@ -2,20 +2,25 @@ import React, { Component } from 'react';
 class Main extends Component {
     render() {
         return (
-            <div className="container-fluid bg-primary">
-                {/*<nav classNameName="navbar navbar-default red-blood a-white bdr-0">
-                    <div classNameName="container">
-                        <div classNameName="navbar-header">
-                            <a href="#" classNameName="navbar-brand">Blood Point</a>
-                            <button>
-                                
-                            </button>
+            <div className="container-fluid bg-primary pd-15 mrgn-0">
+                <div className="jumbotron container t-black t-center ">
+                    <h2 className="bdr-b pd-15">Blood Bank</h2>
+                    <form action="" className="">
+                        <div className="form-group">
+                            <label htmlFor="email">
+                                <input type="email" id="email" placeholder="Email" className="form-control" />
+                            </label>
                         </div>
-                    </div>
-                </nav>*/}
-                <div classNameName="jumbotron t-black t-center">
-                    <h2 classNameName="bdr-b pd-15">Blood Point</h2>
-
+                        <div className="form-group">
+                            <label htmlFor="pwd">
+                                <input type="email" id="pwd" placeholder="Password" className="form-control" />
+                            </label>
+                        </div>
+                        <button type="submit" className="btn btn-default red-blood t-white">Login</button>
+                    </form>
+                    <hr/>
+                    <button type="btn" className="btn btn-default"> or Create new account</button>
+                    <button type="btn" className="btn btn-default">Guest user click here</button>
                 </div>
             </div>
 

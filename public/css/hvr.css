@@ -4,11 +4,16 @@
     transition: 0.5s;
 }
 .hvr-black:hover{
-    background-color: #000000;
+    background-color: green !important;
     transition: 0.4s;
-    color: #ffffff;
-    border-color: #000000;
-    border: none;
+    color: #ffffff !important;
+    border-color: #000000 !important;    
+}
+.hvr-white:hover{
+    background-color: #fff !important;
+    transition: 0.4s;
+    color: #000 !important;
+    border-color: #808080 !important;    
 }
 .hvr-orange:hover{
     background-color: #ff7f50;
