@@ -1,0 +1,91 @@
+.green{
+    background-color: #008000 !important;
+}
+.green-light{
+    background-color: #4CAF50 !important;
+}
+.green-dark{
+    background-color: #006400 !important;
+}
+.black{
+    background-color: black !important;
+}
+.black-dim{
+    background-color: #535353 !important;
+}
+.black-night{
+    background-color: #2f2f2f !important;
+}
+.black-gray{
+    background-color: #474e5d;
+}
+.orange{
+    background-color: #f4511e !important;
+}
+.blue{
+    background-color: blue !important;
+}
+
+.blue-light{
+    background-color: #4584EF !important;
+}
+.blue-dark{
+    background-color: #00008b !important;
+}
+.blue-sky{
+    background-color: skyblue !important;
+}
+.blue-like{
+    background-color: #337ab7;
+}
+.red-blood{
+    background-color: #af111c !important;
+}
+.red-dark{
+    background-color: #7f2a2a !important;
+}
+.red-b{
+    background-color: #ff0000 !important;
+}
+.red-light{
+    background-color: #f99393 !important;
+}
+.gray{
+    background-color: gray !important;
+}
+.gray-dark{
+    background-color: #616161;
+}
+.gray-light{
+    background-color: lightgray !important;
+}
+.green{
+    background: #00ff00;
+}
+.green-dark{
+    background-color: #006400;
+}
+.white{
+    background-color: #fff !important;
+}
+.t-white{
+    color: white !important;
+}
+.t-black{
+    color: #000 !important;
+}
+.t-blue{
+    color: #00008b !important;
+}
+.t-red{
+    color: #8b0000 !important;
+}
+.t-green-dark{
+    color: darkgreen !important;
+}
+.t-gray{
+    color: gray !important;
+}
+.t-orange{
+    color:  #F4511E !important;
+}

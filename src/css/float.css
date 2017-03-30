@@ -1,0 +1,21 @@
+.left{
+    float: left !important;
+}
+.right{
+    float: right !important;
+}
+.center{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.t-left{
+    text-align: left !important;
+}
+.t-right{
+    text-align: right !important;
+}
+.t-center{
+    text-align: center !important;
+}
