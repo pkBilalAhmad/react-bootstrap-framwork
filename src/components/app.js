@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
-import Main from './connectter'
-import Navbar from './connectter/navbar'
+import Main from './connectter/reactComponents/front'
+import Navbar from './connectter/reactComponents/navbar'
+import Signup from './connectter/reactComponents/signup'
 class App extends Component {
     render() {
         return (
             <div>
-                <Navbar/>
-                <Main/>
+                <Signup/>
+
+                {/*<Navbar/>
+                <Main/>*/}
             </div>
         );
     }

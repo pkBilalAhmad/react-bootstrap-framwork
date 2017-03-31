@@ -13,12 +13,12 @@ class Main extends Component {
                         </div>
                         <div className="form-group">
                             <label htmlFor="pwd">
-                                <input type="email" id="pwd" placeholder="Password" className="form-control" />
+                                <input type="password" id="pwd" placeholder="Password" className="form-control" />
                             </label>
                         </div>
                         <button type="submit" className="btn btn-default red-blood t-white">Login</button>
                     </form>
-                    <hr/>
+                    <hr />
                     <button type="btn" className="btn btn-default"> or Create new account</button>
                     <button type="btn" className="btn btn-default">Guest user click here</button>
                 </div>
